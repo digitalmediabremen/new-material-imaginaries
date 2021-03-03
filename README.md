@@ -5,8 +5,27 @@ We will dive deep into material research and technology accompanied by the theor
 
 Artistic material research can be a time-intensive process, often frustrating and discouraging, but eventually resulting in a great fundament for forthcoming projects and a new dialog with things.
 
-## corona
-Yes, the pandemic is still present. And it is hard to predict how the coming semester will turn out. Online only or partly at HfK. Never the less I want this class to be hands-on. In the worst case at your home with online meetings, but hopefully, even if we can't work completely together as a class at HfK, you can use the facilities/studios to work physically on your projects.
+## project phases
+
+1. investigate/research/theory
+- sharing ideas and materials
+- hallucinating mechanisms, systems, and materials
+- speculating material processes and animations
+- reading, exploring, talking
+
+2. experiment/probe/animate/workshops
+- touching, heating, casting, and stimulating materials
+- prototyping
+- methods
+- observing and analyzing
+- working together online or offline
+- workshops on specific topics, technologies, material, themes
+
+3. documenting/archiving/sharing
+- documenting
+- filming + photographing
+- writing + sharing
+- exhibiting online or offline 
 
 ## resources and archive for the course New Material Imaginaries
 head over to the [wiki](https://github.com/digitalmediabremen/new-material-imaginaries/wiki)
